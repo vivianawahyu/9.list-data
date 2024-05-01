@@ -1,0 +1,8 @@
+===========ISI BERITA===========
+Para ilmuwan di sebuah laboratorium penelitian telah berhasil menciptakan perangkat penyimpanan data 
+revolusioner yang dapat menyimpan informasi dalam skala atom tunggal. Temuan ini diharapkan akan membawa 
+perubahan besar dalam industri teknologi informasi, dengan kapasitas penyimpanan yang jauh lebih besar dan 
+kecepatan akses yang lebih cepat daripada teknologi saat ini. CEO perusahaan, Dr. Amanda Smith, menyatakan bahwa
+penemuan ini akan menjadi tonggak penting dalam evolusi teknologi dan akan membuka pintu bagi aplikasi baru
+yang belum pernah terbayangkan sebelumnya. Diharapkan bahwa perangkat ini akan segera tersedia untuk
+diimplementasikan dalam berbagai bidang, mulai dari komputasi hingga pengolahan data skala besar.
